@@ -26,8 +26,9 @@ function App() {
   return (
     <div className="container">
       <header className="hero">
-        <h1>Neuro Sense</h1>
+        <h1>NEURO SENSE</h1>
         <p> Você em foco</p>
+        <button>SAIBA MAIS</button>
       </header>
 
       <section className="layer1">
